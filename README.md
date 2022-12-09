@@ -4,8 +4,8 @@ This was primarily developed by artificial intelligence (OpenAI) along with a lo
 
 ## Prerequisites
 
-> Node JS
-> npm
+- Node JS
+- npm
 
 ## How to use
 
@@ -16,7 +16,7 @@ This was primarily developed by artificial intelligence (OpenAI) along with a lo
 
 ## Guide for Effective use
 
-> The script is built to give you the longest word based off the inputted sequence of letters, but will not repeat the same word twice unless the program is restarted (to ensure no duplicate words are created)
-> Make sure you tab out<->in to make sure the bomb doesn't explode when you're typing!
+- The script is built to give you the longest word based off the inputted sequence of letters, but will not repeat the same word twice unless the program is restarted (to ensure no duplicate words are created)
+- Make sure you tab out<->in to make sure the bomb doesn't explode when you're typing!
 
 ###### Enjoy!
