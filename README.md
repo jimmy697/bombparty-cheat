@@ -1,8 +1,8 @@
 # bombparty-cheat
 
-This was primarily developed by artificial intelligence (OpenAI) along with a lot of self learning by me, ensuring the code works as effective as possible.
+This was primarily developed by artificial intelligence (OpenAI) along with a lot of self learning by me, ensuring the code works as effective as possible. Please star this repo if you like it!
 
-##Features
+## Features
 
 - Auto copy word to clipboard
 - Find longest word
