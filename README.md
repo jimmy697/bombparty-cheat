@@ -1,6 +1,6 @@
 # bombparty-cheat
 
-A cheat/script for the jklm.fun bombparty mode!
+A cheat/script for the [jklm.fun](https://jklm.fun/) bombparty mode!
 
 This was primarily developed by artificial intelligence (OpenAI) along with a lot of self learning by me, ensuring the code works as effective as possible. Please star this repo if you like it!
 
