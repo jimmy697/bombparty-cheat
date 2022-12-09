@@ -2,6 +2,11 @@
 
 This was primarily developed by artificial intelligence (OpenAI) along with a lot of self learning by me, ensuring the code works as effective as possible.
 
+##Features
+
+- Auto copy word to clipboard
+- Find longest word
+
 ## Prerequisites
 
 - [Node JS + npm](https://nodejs.org/en/download/)
