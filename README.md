@@ -9,10 +9,10 @@ This was primarily developed by artificial intelligence (OpenAI) along with a lo
 
 ## How to use
 
-> Step 1: Download all files from this repo and extract them _(preferrably onto your desktop for easy of access)_
-> Step 2: Go into your cmd or powershell and run the command "npm install clipboardy" **MUST DO TO WORK**
-> Step 3: cd into the folder in your cmd or powershell
-> Step 4: Run "node index.mjs"
+1. Download all files from this repo and extract them _(preferrably onto your desktop for easy of access)_
+2. Go into your cmd or powershell and run the command "npm install clipboardy" **MUST DO TO WORK**
+3. cd into the folder in your cmd or powershell
+4. Run "node index.mjs"
 
 ## Guide for Effective use
 
