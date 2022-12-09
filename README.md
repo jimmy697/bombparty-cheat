@@ -4,8 +4,7 @@ This was primarily developed by artificial intelligence (OpenAI) along with a lo
 
 ## Prerequisites
 
-- Node JS
-- npm
+- [Node JS + npm](https://nodejs.org/en/download/)
 
 ## How to use
 
